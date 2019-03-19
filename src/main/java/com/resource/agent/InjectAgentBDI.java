@@ -1,4 +1,4 @@
-package a;
+package com.resource.agent;
 
 import java.io.IOException;
 import java.text.DateFormat;
@@ -16,13 +16,13 @@ import org.apache.http.impl.client.HttpClients;
 import org.apache.http.impl.conn.PoolingHttpClientConnectionManager;
 import org.apache.http.protocol.HttpContext;
 
+import com.resource.agent.AgentBehaviour1BDI.RetrieveTasks;
 import com.resource.start.CaseInfo;
 import com.resource.start.PlatformInfo;
 import com.resource.start.Resource;
 import com.resource.start.TaskInfo;
 import com.resource.start.UserObjectInfo;
 
-import a.AgentBehaviour1BDI.RetrieveTasks;
 import jadex.bdiv3.annotation.Belief;
 import jadex.bdiv3.annotation.Goal;
 import jadex.bdiv3.annotation.GoalParameter;
