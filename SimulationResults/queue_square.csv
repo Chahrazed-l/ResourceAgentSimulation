@@ -1,4 +1,4 @@
-Resourceid;FIFO%Sim;LIFO%Sim;Random%sim;FIFO% expected;LIFO% Expected;Random% Expected;obs-exp FIFO;Obs-Exp LIFO;Obs-Exp Random;obs-exp FIFI^2;obs-exp LIFO ^2;obs-exp Random ^2;CHI fifo;chi LIFO;CHI random
+Resourceid;FIFOSim;LIFOSim;Randomsim;FIFO expected;LIFO Expected;Random Expected;obs-exp FIFO;Obs-Exp LIFO;Obs-Exp Random;obs-exp FIFI^2;obs-exp LIFO ^2;obs-exp Random ^2;CHI fifo;chi LIFO;CHI random
 11049;25,9;36;38,1;26,32;34,21;39,47;-0,42;1,79;-1,37;0,1764;3,2041;1,8769;0,006702128;0,093659749;0,047552572
 10629;27;48;25;28,24;48,24;23,53;-1,24;-0,24;1,47;1,5376;0,0576;2,1609;0,054447592;0,00119403;0,091835954
 10809;29;57;14;30,43;56,52;13,04;-1,43;0,48;0,96;2,0449;0,2304;0,9216;0,067200131;0,004076433;0,070674847

@@ -1,4 +1,4 @@
-Resourceid;Simulated Batch;Simulated nonbatch;Expected Batch%;Expected NonBatch%;observed-expected batch;observed -expected nonbatch;obs-exp batch ^2;obs-exp nonbatch ^2;;Chi square batch;chi square non batch
+Resourceid;Simulated Batch;Simulated nonbatch;Expected Batch;Expected NonBatch;observed-expected batch;observed -expected nonbatch;obs-exp batch ^2;obs-exp nonbatch ^2;;Chi square batch;chi square non batch
 11049;20;80;20;80;0;0;0;0;;0;0
 10629;40;60;36;63;4;-3;16;9;;0,444444444;0,444444444
 10809;60;40;61;38;-1;2;1;4;;0,016393443;0,016393443
